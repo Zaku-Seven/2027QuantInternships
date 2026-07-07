@@ -673,3 +673,17 @@ Please see the `README.md` in the `./data` folder for instructions on how to mai
 |-------|-------|
 
 
+
+
+## Steven's Capital Management
+**Website**: [Steven's Capital Management](https://www.scm-lp.com/)
+
+**Locations**: Radnor, PA
+
+**Notes**: quantitative hedge fund manager specializing in the
+rigorous development and disciplined implementation of empirically based trading strategies.
+
+|Role|Links|
+|-------|[-------](https://grnh.se/abfli75k1us)|
+
+
